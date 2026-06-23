@@ -23,7 +23,7 @@ The images are presented as Numpy arrays of resolution 1024x1536. We recommend r
 
 
 ## Polygon Annotations
-Annotations are provided in the CSV file `Processed_Annotations.csv` in the repo.
+Annotations are provided in the CSV file `Processed_Annotations.csv` in the repo.The polygon points are coordinates in the full resolution space. We recommend normalizing them if the training involves rescaling.
 
 
 ## Access
