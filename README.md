@@ -22,7 +22,12 @@ The images are presented as Numpy arrays of resolution 1024x1536. We recommend r
 <img width="1489" height="1097" alt="ExampleImage" src="https://github.com/user-attachments/assets/b2e6383f-6642-4337-80f7-50c77b500eb1" />
 
 
+## Polygon Annotations
+Annotations are provided in the CSV file `Processed_Annotations.csv` in the repo.
+
+
 ## Access
 The images can be accessed via: https://drive.google.com/drive/folders/1achj7aptOTL8gZmwHSpl1uKkuUqVftFP?usp=sharing 
+
 
 We would like to thank Goterra for supporting this project and UCX for provding us with food waste. We would also like to thank Tactical Research for providing us with the sensors. 
